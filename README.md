@@ -6,5 +6,5 @@ Alura: Aprenda Java com Orientação a Objetos - https://cursos.alura.com.br/for
 
 - 01 sua-primeira-aplicacao - Curso de Java: criando a sua primeira aplicação
 - 02 aplicando-orientacao-objetos - Curso de Java: aplicando a Orientação a Objetos
-- 03 
+- 03 trab-listas-colecoesdados - Curso de Java: trabalhando com listas e coleções de dados
 - 04 
